@@ -1,4 +1,4 @@
-# Welcme to Untoz
+# Welcome to Untoz
 Untoz is a multi-things company. We create tools, movies and things for you! More coming soon! 🤗
 
 ## 📚 Features
