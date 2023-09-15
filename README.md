@@ -37,5 +37,5 @@ These are our previous names:
 - 2023 = Ubort
 - And now = Untoz
 
-** 💌 More Cooming Soon!
+## 💌 More Cooming Soon!
 We are working on more things for you!
