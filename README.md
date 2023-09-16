@@ -20,8 +20,8 @@ Here you can find what we do:
   - [📚 Features](#-features)
   - [Table of Contents](#table-of-contents)
   - [🎯 Getting Started](#-getting-started)
-  - [❤️ Previous names](#-deployment)
-  - [💌 More Cooming Soon!](#support)
+  - [❤️ Previous names](#-previous-names)
+  - [💌 More Cooming Soon!](#-more-cooming-soom)
   - [🔗 Social Media](#-social-media)
  
 ## 🎯 Getting Started
